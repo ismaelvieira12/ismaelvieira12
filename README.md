@@ -6,7 +6,7 @@
 ![Ismael Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaelvieira12&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelvieira12&layout=donut)](https://github.com/ismaelvieira12)
 
-## Tecnologias no meu dia dia
+## Tecnologias no meu dia a dia
 
 <div><br/>
     <img alignm="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
