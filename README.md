@@ -4,7 +4,7 @@
 
 
 ![Ismael Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaelvieira12&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelvieira12&layout=donut)](https://github.com/ismaelvieira12/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelvieira12&layout=donut)](https://github.com/ismaelvieira12)
 
 ## Tecnologias no meu dia dia
 
