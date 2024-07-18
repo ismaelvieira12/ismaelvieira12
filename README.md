@@ -3,7 +3,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ismael.vieira.1671/?locale=pt_BR)
 
 
-
+![Ismael Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaelvieira12&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelvieira12&layout=donut)](https://github.com/ismaelvieira12)
 
 ## Tecnologias no meu dia a dia
