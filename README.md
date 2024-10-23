@@ -10,7 +10,7 @@
 </div>
 
 
-<h2 align="center">Tecnologias no meu dia a dia</h2>
+<h2 align="left">Tecnologias no meu dia a dia</h2>
 
 ###
 
